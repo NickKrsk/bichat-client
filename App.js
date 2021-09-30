@@ -11,7 +11,7 @@ export default function App() {
     setMessages([
       {
         _id: 1,
-        text: 'Hello, Iam Kantalupa. Go you want to play?',
+        text: 'Hello, Iam Kantalupa. Do you want to play?',
         createdAt: new Date(),
         user: {
           _id: 2,
